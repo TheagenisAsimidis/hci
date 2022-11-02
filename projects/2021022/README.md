@@ -31,8 +31,8 @@
 <br>
 
 <p>images:
-[NokiaTube](https://github.com/TheagenisAsimidis/images/blob/master/nokia5800xpressmusic.jpg) και [thumbnail](https://github.com/TheagenisAsimidis/images/blob/master/nokia5800xpressmusic-thumb.jpg)
-[Thing-O-Magic](https://github.com/TheagenisAsimidis/images/blob/master/THING.jpg) και [thumbnail](https://github.com/TheagenisAsimidis/images/blob/master/THING-thumb.jpg)
+![NokiaTube](https://github.com/TheagenisAsimidis/images/blob/master/nokia5800xpressmusic.jpg) και [thumbnail](https://github.com/TheagenisAsimidis/images/blob/master/nokia5800xpressmusic-thumb.jpg)
+![Thing-O-Magic](https://github.com/TheagenisAsimidis/images/blob/master/THING.jpg) και [thumbnail](https://github.com/TheagenisAsimidis/images/blob/master/THING-thumb.jpg)
  
 gallery:
 [FIRST 3D PRINTER](https://github.com/TheagenisAsimidis/_gallery/blob/master/THING.md)
